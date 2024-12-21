@@ -123,6 +123,6 @@ This project is licensed under the **MIT License**. Feel free to use and adapt i
 ## 📞 Contact
 Have questions or suggestions? Reach out to the **Learn-to-Earn Platform Team** at:
 - Email: amit.websitedev@gmail.com
-- Linkedin: [Connect Us]((https://www.linkedin.com/in/amit-vishwakarma-b46380193/))
+- Linkedin: [Connect Us](https://www.linkedin.com/in/amit-vishwakarma-b46380193/)
 
 Let's revolutionize learning together!
