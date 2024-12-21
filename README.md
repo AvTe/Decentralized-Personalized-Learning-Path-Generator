@@ -2,6 +2,7 @@
 
 ## 🌟 Project Overview
 Welcome to the **Decentralized Personalized Learning Path Generator**! Our mission is to revolutionize education by combining Web3, blockchain, and NFT technologies. This platform empowers learners with transparency, security, and rewarding experiences for skill-building and knowledge acquisition.
+
 ![EDU-Chain-Testnet-address-details-for-0x0d63f710Df4AF3854440A4D356208aA41e6e0EB7-Blockscout-12-21-2024_03_26_PM](https://github.com/user-attachments/assets/61191bad-7a1b-4283-a299-811f8676691d)
 
 
